@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Python/Excepciones/Leccion01/Leccion01" />
       <excludeFolder url="file://$MODULE_DIR$/Python/Excepciones/Leccion01/pythonProject/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Excepciones/Leccion01/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Archivos/Leccion02/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
