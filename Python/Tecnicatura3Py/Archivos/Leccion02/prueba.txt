@@ -9,4 +9,5 @@ las letras son:
  b= tipo archivos binario, 
  w+= leer y escribe, 
  r+= es igual al w+ 
+Saludis a todos los alumnos de la tercnicatura
 Con esto terminamos
