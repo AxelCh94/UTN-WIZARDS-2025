@@ -8,6 +8,8 @@
       <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Excepciones/Leccion01/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Archivos/Leccion02/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Clase 3/Proyecto catálogo de peliculas/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Leccion04/BD/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Python/Tecnicatura3Py/Leccion04/BD/pythonProject/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
